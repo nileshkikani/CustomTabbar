@@ -1,1 +1,1 @@
-->THIS TEXT IS IN THE CENTER!<-
+<center>**Here the text is centered. Here are good resources:**</center>
