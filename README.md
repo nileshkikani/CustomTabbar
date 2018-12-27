@@ -1,1 +1,1 @@
-<center>**Here the text is centered. Here are good resources:**</center>
+**Here the text is centered. Here are good resources:**
